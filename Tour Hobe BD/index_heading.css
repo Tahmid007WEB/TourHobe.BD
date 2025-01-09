@@ -1,0 +1,30 @@
+<style>
+body {
+  margin: 0;
+}
+
+
+.top {
+  overflow: hidden;
+  background-color: #000000;
+}
+
+.Tahmid Sattar {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.Tahmid Sattar:hover {
+  background-color: #CCFFE5;
+  color: black;
+}
+
+.Tahmid Sattar.active {
+  background-color: #20C320;
+  color: white;
+}
+</style>
